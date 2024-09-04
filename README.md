@@ -8,7 +8,7 @@ I approach every project and challenge with enthusiasm and a growth mindset. I e
 
 My goal is to make a meaningful impact through my work, leveraging my expertise and dedication to deliver high-quality solutions. I'm excited about the future of technology and the opportunities it presents for innovation and positive change. Let's connect and embark on this exciting journey together!
 
-<!--
+
 **Rorschach3/Rorschach3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -21,4 +21,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
